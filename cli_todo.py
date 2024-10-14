@@ -2,7 +2,6 @@ import functions
 import time
 
 
-""test""
 
 
 while True:
